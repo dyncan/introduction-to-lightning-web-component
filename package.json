@@ -1,0 +1,20 @@
+{
+  "name": "lwc-intro",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.40.16",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "devDependencies": {
+    "@iconify-json/logos": "^1.1.30",
+    "@iconify-json/mdi": "^1.1.52",
+    "@iconify-json/ri": "^1.1.8",
+    "@iconify-json/tabler": "^1.1.76"
+  }
+}
