@@ -1,4 +1,4 @@
-# Introduction to Lightning Web Components
+# Introduction to Lightning Web Component
 
 To start the slide show:
 
