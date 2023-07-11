@@ -108,6 +108,7 @@ class: px-20
 </div>
   
 ---
+transition: fade-out
 class: px-20
 ---
 
@@ -349,8 +350,3 @@ class: text-center
 # Learn More
 
 [Salesforce Documentations](https://developer.salesforce.com/docs/component-library/documentation/en/lwc) · [Trailhead Apps](https://github.com/trailheadapps) · [Salesforce Dev Blogs](https://developer.salesforce.com/blogs)
-
----
-layout: end
----
-
